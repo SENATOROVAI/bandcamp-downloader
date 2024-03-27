@@ -6,7 +6,7 @@ Usage
 
     sh
 
-    python SENATOROVAI.py
+    python test_cloud.py
 
     The script will start downloading the albums one by one.
 
@@ -19,4 +19,6 @@ MIT License
 Acknowledgements
 
 This script utilizes Selenium WebDriver for browser automation and the requests library for downloading files. Special thanks to the developers of these tools for their contributions.
+
+
 SENATOROVAI 
